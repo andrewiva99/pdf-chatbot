@@ -1,6 +1,6 @@
 # PDF Chatbot
-PDF Chatbot is an AI-powered application that allows users to upload PDF files and ask questions based on the content of those files. 
-It supports multiple chat sessions, file management, and API key customization. 
+PDF Chatbot is an AI-powered application that allows users to upload PDF files and ask questions about their contents. 
+Built using Streamlit, the app provides a smooth experience with support for multiple chats, file management, and API key configuration.
 
 ## Key Features
 - **AI Models**: Powered by Google's `gemini-1.5-flash` for the chatbot model,
