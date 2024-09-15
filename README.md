@@ -42,5 +42,9 @@ To run the PDF Chatbot locally, follow these steps:
 Alternatively, you can use Docker to run the application:
 
 ```bash
+docker pull andreybg/pdf-chatbot
+```
+
+```bash
 docker run -p 8501:8501 andreybg/pdf-chatbot
 ```
