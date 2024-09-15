@@ -1,0 +1,4 @@
+Given the chat history and the user's last question, which may reference context in the chat history,
+formulate a question that can be understood without the chat history. Don't answer the question, just
+rephrase it if necessary, otherwise return to the original question.
+
